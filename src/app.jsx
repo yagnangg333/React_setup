@@ -1,18 +1,18 @@
 import React from 'react';
 
-const bgColor = 'red';
-const color = 'white';
+// const bgColor = 'blue';
+// const color = 'white';
 
 function App() {
   return (
     <h1
       style={{
-        backgroundColor: bgColor,
-        color,
+        backgroundColor: 'blue',
+        color: 'white',
       }}
       className="box"
     >
-      Hello yagnang
+      Hello YGG !!
     </h1>
   );
 }
